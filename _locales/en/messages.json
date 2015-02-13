@@ -1,0 +1,16 @@
+{
+  "extName": {
+    "message": "NoProxy",
+    "description": "The name of the extension."
+  },
+  "extDescription": {
+    "message": "Temporarily bypasses your proxy.",
+    "description": "The description of the extension."
+  },
+  "on": {
+    "message": "ON"
+  },
+  "off": {
+    "message": "OFF"
+  }
+}
